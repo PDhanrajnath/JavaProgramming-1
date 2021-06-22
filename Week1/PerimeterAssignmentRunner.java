@@ -80,6 +80,7 @@ public class PerimeterAssignmentRunner {
                 largestPerimeter = currPerimeter;
             }
         }
+        assert temp != null;
         return temp.getName();
     }
 

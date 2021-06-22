@@ -1,0 +1,9 @@
+
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¶ã¾‚úÿÿÿÿ
+o
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Õ…„
+E
+java:S6212R"/Declare this local variable with "var" instead.(ôÎ±Ò
+E
+java:S6212S"/Declare this local variable with "var" instead.(¡ý‚¾

@@ -1,0 +1,24 @@
+
+s
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(Š‘…ûıÿÿÿÿ8Æğ§£/
+L
+java:S6212"/Declare this local variable with "var" instead.(ìüà·8Íğ§£/
+L
+java:S6212"/Declare this local variable with "var" instead.(ÿøò€8Ğğ§£/
+Q
+java:S6212/"/Declare this local variable with "var" instead.(¡Ò¾üÿÿÿÿ8Ôğ§£/
+K
+java:S6212B"/Declare this local variable with "var" instead.(ŠÑŠg8×ğ§£/
+Q
+java:S6212D"/Declare this local variable with "var" instead.(’Äø‘üÿÿÿÿ8×ğ§£/
+L
+java:S6212N"/Declare this local variable with "var" instead.(©¯Ü8Úğ§£/
+L
+java:S6212O"/Declare this local variable with "var" instead.(¾Ş´¬8Ûğ§£/
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(ıØ®8Üğ§£/
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(²íÆ…8İğ§£/
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(öæ× şÿÿÿÿ8İğ§£/
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ı”½öÿÿÿÿÿ8Şğ§£/
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(ÅÎ´éşÿÿÿÿ8ßğ§£/
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(ŠÊ»¿ûÿÿÿÿ8ßğ§£/
+U	java:S106g"9Replace this use of System.out or System.err by a logger.(ÃîÅã8àğ§£/

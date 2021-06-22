@@ -1,0 +1,113 @@
+
+€
+java:S1192*"cDefine a constant instead of duplicating this literal "us_babynames/us_babynames_test/yob" 3 times.(Õ÷Ğ…8èÇè§£/
+h
+java:S1192E"FDefine a constant instead of duplicating this literal "Mason" 3 times.(—²¥şÿÿÿÿ8èÇè§£/
+g
+java:S1192*"JDefine a constant instead of duplicating this literal "short.csv" 3 times.(Õ÷Ğ…8éÇè§£/
+Q
+java:S6212"/Declare this local variable with "var" instead.(àØßûÿÿÿÿ8úÇè§£/
+L
+java:S6212"/Declare this local variable with "var" instead.(¤Ò«ç8ûÇè§£/
+L
+java:S6212	"/Declare this local variable with "var" instead.(ì—Éš8üÇè§£/
+L
+java:S6212
+"/Declare this local variable with "var" instead.(¸£¤·8ıÇè§£/
+L
+java:S6212"/Declare this local variable with "var" instead.(ºõ˜£8şÇè§£/
+\
+java:S6213":Rename this variable to not match a restricted identifier.(¶Û®±ÿÿÿÿÿ8şÇè§£/
+L
+java:S6212"/Declare this local variable with "var" instead.(Ë×¡8ã¨ƒ¨£/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Û¯Ëøÿÿÿÿ8Èè§£/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸Èæúÿÿÿÿ8‚Èè§£/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µÃ£‚úÿÿÿÿ8ƒÈè§£/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡’óîúÿÿÿÿ8ƒÈè§£/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(‹®Çåùÿÿÿÿ8„Èè§£/
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÖ£–úÿÿÿÿ8…Èè§£/
+Q
+java:S6212%"/Declare this local variable with "var" instead.(õ¯¾µúÿÿÿÿ8ê¨ƒ¨£/
+L
+java:S6212*"/Declare this local variable with "var" instead.(Õ÷Ğ…8î¨ƒ¨£/
+L
+java:S6212+"/Declare this local variable with "var" instead.(½ïÔè8‰Èè§£/
+L
+java:S6212,"/Declare this local variable with "var" instead.(·Öù8ŠÈè§£/
+\
+java:S6213.":Rename this variable to not match a restricted identifier.(¶Û®±ÿÿÿÿÿ8‹Èè§£/
+Q
+java:S6212D"/Declare this local variable with "var" instead.(†Æ¶şÿÿÿÿ8Èè§£/
+Q
+java:S6212E"/Declare this local variable with "var" instead.(—²¥şÿÿÿÿ8Èè§£/
+Q
+java:S6212F"/Declare this local variable with "var" instead.(Í™‰øÿÿÿÿ8Èè§£/
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(„×¸úÿÿÿÿ8‘Èè§£/
+L
+java:S6212M"/Declare this local variable with "var" instead.(Õ÷Ğ…8ô¨ƒ¨£/
+Q
+java:S6212N"/Declare this local variable with "var" instead.(šÚ ñøÿÿÿÿ8“Èè§£/
+Q
+java:S6212O"/Declare this local variable with "var" instead.(‡¨ôÇşÿÿÿÿ8“Èè§£/
+\
+java:S6213Q":Rename this variable to not match a restricted identifier.(¶Û®±ÿÿÿÿÿ8“Èè§£/
+Q
+java:S6212b"/Declare this local variable with "var" instead.(†Æ¶şÿÿÿÿ8•Èè§£/
+L
+java:S6212c"/Declare this local variable with "var" instead.(ì£¬ì8–Èè§£/
+Q
+java:S6212d"/Declare this local variable with "var" instead.(Í™‰øÿÿÿÿ8–Èè§£/
+Z	java:S106g"9Replace this use of System.out or System.err by a logger.(à€™”ûÿÿÿÿ8—Èè§£/
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(ˆ’Şá8šÈè§£/
+L
+java:S6212x"/Declare this local variable with "var" instead.(ó¦Ä8ü¨ƒ¨£/
+Q
+java:S6212{"/Declare this local variable with "var" instead.(ÛË¦ ÿÿÿÿÿ8ŸÈè§£/
+R
+java:S6212"/Declare this local variable with "var" instead.(—²¥şÿÿÿÿ8¢Èè§£/
+R
+java:S6212"/Declare this local variable with "var" instead.(Í™‰øÿÿÿÿ8£Èè§£/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(œòËä8£Èè§£/
+R
+java:S6212”"/Declare this local variable with "var" instead.(õ²ÅÁıÿÿÿÿ8¦Èè§£/
+M
+java:S6212•"/Declare this local variable with "var" instead.(ó¦Ä8€©ƒ¨£/
+R
+java:S6212˜"/Declare this local variable with "var" instead.(ÛË¦ ÿÿÿÿÿ8¦Èè§£/
+R
+java:S6212©"/Declare this local variable with "var" instead.(—²¥şÿÿÿÿ8«Èè§£/
+R
+java:S6212ª"/Declare this local variable with "var" instead.(Í™‰øÿÿÿÿ8«Èè§£/
+[	java:S106«"9Replace this use of System.out or System.err by a logger.(ë‚Ì—ûÿÿÿÿ8¬Èè§£/
+[	java:S106¯"9Replace this use of System.out or System.err by a logger.(ë‚Ì—ûÿÿÿÿ8­Èè§£/
+M
+java:S6212³"/Declare this local variable with "var" instead.(Õ÷Ğ…8…©ƒ¨£/
+R
+java:S6212µ"/Declare this local variable with "var" instead.(àØßûÿÿÿÿ8¯Èè§£/
+R
+java:S6212¶"/Declare this local variable with "var" instead.(‡¨ôÇşÿÿÿÿ8°Èè§£/
+]
+java:S6213¸":Rename this variable to not match a restricted identifier.(¶Û®±ÿÿÿÿÿ8°Èè§£/
+R
+java:S6212¿"/Declare this local variable with "var" instead.(Ø½Ì˜şÿÿÿÿ8ˆ©ƒ¨£/
+R
+java:S6212Ë"/Declare this local variable with "var" instead.(†Æ¶şÿÿÿÿ8²Èè§£/
+R
+java:S6212Ì"/Declare this local variable with "var" instead.(¢˜ªÇÿÿÿÿÿ8²Èè§£/
+R
+java:S6212Í"/Declare this local variable with "var" instead.(Í™‰øÿÿÿÿ8²Èè§£/
+[	java:S106Î"9Replace this use of System.out or System.err by a logger.(‘ì€·øÿÿÿÿ8³Èè§£/
+X
+java:S1118Ñ":Add a private constructor to hide the implicit public one.(ıÿ—–8‹©ƒ¨£/
+N
+java:S1172Ò"+Remove this unused method parameter "args".(—íÒäøÿÿÿÿ8Œ©ƒ¨£/
+[
+java:S1197Ò"8Move the array designator from the variable to the type.(—íÒäøÿÿÿÿ8Œ©ƒ¨£/
+M
+java:S6212Ó"/Declare this local variable with "var" instead.(ŠÂ’ 8²™…¨£/
+[	java:S106Õ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©ƒ¨£/
+[	java:S106×"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©ƒ¨£/
+[	java:S106Ù"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©ƒ¨£/
+[	java:S106Û"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©ƒ¨£/
+[	java:S106İ"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©ƒ¨£/
+[	java:S106ß"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8©ƒ¨£/

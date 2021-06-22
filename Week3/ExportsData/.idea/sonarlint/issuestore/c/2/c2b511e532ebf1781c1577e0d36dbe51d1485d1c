@@ -1,0 +1,21 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal "Country" 3 times.(‰¥Œ®ýÿÿÿÿ8õ­½§£/
+j
+java:S1192"HDefine a constant instead of duplicating this literal "Exports" 3 times.(‚…í¯üÿÿÿÿ8ú­½§£/
+{
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(£”àÊ8ƒ®½§£/
+W
+java:S6213":Rename this variable to not match a restricted identifier.(Õ÷ 8Š®½§£/
+W
+java:S6213":Rename this variable to not match a restricted identifier.(Õ÷ 8’®½§£/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Áº„™úÿÿÿÿ8•®½§£/
+L
+java:S6212""/Declare this local variable with "var" instead.(ÁÎúä8˜®½§£/
+W
+java:S6213$":Rename this variable to not match a restricted identifier.(Õ÷ 8˜®½§£/
+W
+java:S62130":Rename this variable to not match a restricted identifier.(Õ÷ 8š®½§£/
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(àÎÔ®8œ®½§£/
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(Ò¨æ”8Ÿ®½§£/
+U	java:S106D"9Replace this use of System.out or System.err by a logger.(ÞÌ¸½8 ®½§£/

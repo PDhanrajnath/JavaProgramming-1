@@ -1,0 +1,19 @@
+
+f
+java:S1192"IDefine a constant instead of duplicating this literal "Gene is " 5 times.(ò–æ8–Æ×¦£/
+l
+java:S1192"ODefine a constant instead of duplicating this literal "DNA strand is " 5 times.(¥«Çë8—Æ×¦£/
+L
+java:S6212"/Declare this local variable with "var" instead.(ìş“8£Æ×¦£/
+K
+java:S6212"/Declare this local variable with "var" instead.(æ•p8°Æ×¦£/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥«Çë8²Æ×¦£/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò–æ8³Æ×¦£/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥«Çë8´Æ×¦£/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò–æ8µÆ×¦£/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(¥«Çë8·Æ×¦£/
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ò–æ8¸Æ×¦£/
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(¥«Çë8¹Æ×¦£/
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ò–æ8ºÆ×¦£/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(¥«Çë8¼Æ×¦£/
+U	java:S106+"9Replace this use of System.out or System.err by a logger.(ò–æ8½Æ×¦£/

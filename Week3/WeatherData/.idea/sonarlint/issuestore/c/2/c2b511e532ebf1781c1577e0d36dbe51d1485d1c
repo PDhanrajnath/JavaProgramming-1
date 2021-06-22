@@ -1,0 +1,39 @@
+
+]
+java:S3518œ"AMake sure "recordCount" can't be zero before doing this division.(ˆÊ§£şÿÿÿÿ
+a
+java:S2259"KA "NullPointerException" could be thrown; "coldestRecord" is nullable here.(™ÿ‹§
+x
+java:S3008"]Rename this field "TEMPERATURE_COLUMN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¯»»ÿÿÿÿÿ
+q
+java:S3008"VRename this field "DATE_COLUMN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–•‰†ÿÿÿÿÿ
+p
+java:S3008"ZRename this field "HUMIDITY_COLUMN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÄ¸Ñ
+P
+java:S6213":Rename this variable to not match a restricted identifier.(Õ÷ 
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ñÜËëûÿÿÿÿ
+P
+java:S6213?":Rename this variable to not match a restricted identifier.(Õ÷ 
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(ÒÆ÷À
+J
+java:S6212E"/Declare this local variable with "var" instead.(È«¼øÿÿÿÿ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(Äà“€
+S	java:S106J"9Replace this use of System.out or System.err by a logger.( ÏºÏûÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(®ˆäøÿÿÿÿ
+P
+java:S6213S":Rename this variable to not match a restricted identifier.(Õ÷ 
+E
+java:S6212W"/Declare this local variable with "var" instead.(çâ×
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(¨—çøÿÿÿÿ
+T	java:S106Š"9Replace this use of System.out or System.err by a logger.(¨—çøÿÿÿÿ
+K
+java:S6212"/Declare this local variable with "var" instead.(õ²ÅÁıÿÿÿÿ
+Q
+java:S6213’":Rename this variable to not match a restricted identifier.(Õ÷ 
+T	java:S106£"9Replace this use of System.out or System.err by a logger.(Ì©ı¸ûÿÿÿÿ
+K
+java:S6212¨"/Declare this local variable with "var" instead.(õ²ÅÁıÿÿÿÿ
+Q
+java:S6213ª":Rename this variable to not match a restricted identifier.(Õ÷ 
+T	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ÄìÈÀüÿÿÿÿ
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(ÿƒÄÃøÿÿÿÿ

@@ -1,0 +1,27 @@
+
+d
+java:S1192="GDefine a constant instead of duplicating this literal "Gene: " 6 times.(¡ÆóÙ8¸ñü¦£/
+f
+java:S1192"IDefine a constant instead of duplicating this literal "Index = " 4 times.(Ì¦ßè8¹ñü¦£/
+L
+java:S6212"/Declare this local variable with "var" instead.(ìüà·8Çñü¦£/
+Q
+java:S6212"/Declare this local variable with "var" instead.(®»â“ýÿÿÿÿ8Éñü¦£/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¦ßè8Ëñü¦£/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¦ßè8Ëñü¦£/
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(Ì¦ßè8Ìñü¦£/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(Ì¦ßè8Íñü¦£/
+L
+java:S6212'"/Declare this local variable with "var" instead.(ÿøò€8Ïñü¦£/
+L
+java:S6212<"/Declare this local variable with "var" instead.(ï®Ž8Ôñü¦£/
+U	java:S106="9Replace this use of System.out or System.err by a logger.(¡ÆóÙ8Õñü¦£/
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(¡ÆóÙ8Öñü¦£/
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(¡ÆóÙ8×ñü¦£/
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(¡ÆóÙ8Øñü¦£/
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(¡ÆóÙ8Ùñü¦£/
+Q
+java:S6212M"/Declare this local variable with "var" instead.(¡Ò¾Žüÿÿÿÿ8Úñü¦£/
+U	java:S106V"9Replace this use of System.out or System.err by a logger.(½—Ì‡8Üñü¦£/
+L
+java:S6212]"/Declare this local variable with "var" instead.(›Ùžú8Ýñü¦£/
